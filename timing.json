@@ -1,8 +1,8 @@
 {
- "total": 254.375,
+ "total": 275.13,
  "drum": {
-  "start": 227.628,
-  "crash": 230.228
+  "start": 243.307,
+  "crash": 245.907
  },
  "drums": [
   {
@@ -11,21 +11,21 @@
    "role": "open"
   },
   {
-   "start": 227.628,
-   "crash": 230.228,
+   "start": 243.307,
+   "crash": 245.907,
    "role": "no1"
   }
  ],
  "tempo": 1.0,
- "segGap": 0.611,
+ "segGap": 0.61,
  "partGap": 0.28,
- "words": 636,
+ "words": 634,
  "slides": [
   {
    "id": "cover",
    "slide": 1,
    "start": 3.55,
-   "speechEnd": 17.362,
+   "speechEnd": 18.292,
    "actions": [
     {
      "t": 2.5,
@@ -33,7 +33,7 @@
      "k": 1
     }
    ],
-   "end": 17.973,
+   "end": 18.902,
    "title": "Cover",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
@@ -42,744 +42,744 @@
   {
    "id": "hosts",
    "slide": 2,
-   "start": 17.973,
-   "speechEnd": 24.851,
+   "start": 18.902,
+   "speechEnd": 27.437,
    "actions": [],
-   "end": 25.462,
+   "end": 28.048,
    "title": "Your hosts",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 17.512
+   "show": 18.442
   },
   {
    "id": "market",
    "slide": 3,
-   "start": 25.462,
-   "speechEnd": 41.884,
+   "start": 28.048,
+   "speechEnd": 47.29,
    "actions": [],
-   "end": 42.495,
+   "end": 47.901,
    "title": "Agenda",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 25.001
+   "show": 27.587
   },
   {
    "id": "stuckey",
    "slide": 4,
-   "start": 42.495,
-   "speechEnd": 50.468,
+   "start": 47.901,
+   "speechEnd": 56.829,
    "actions": [],
-   "end": 51.079,
+   "end": 57.44,
    "title": "Quote. Place. Grow.",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 42.034
+   "show": 47.44
   },
   {
    "id": "opportunity",
    "slide": 5,
-   "start": 51.079,
-   "speechEnd": 60.459,
+   "start": 57.44,
+   "speechEnd": 66.814,
    "actions": [],
-   "end": 61.07,
+   "end": 67.425,
    "title": "The Opportunity Expands Your Book",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 50.618
+   "show": 56.979
   },
   {
    "id": "boundaries",
    "slide": 6,
-   "start": 61.07,
-   "speechEnd": 71.926,
+   "start": 67.425,
+   "speechEnd": 78.281,
    "actions": [],
-   "end": 72.537,
+   "end": 78.891,
    "title": "What we don't write",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 60.609
+   "show": 66.964
   },
   {
    "id": "layers",
    "slide": 7,
-   "start": 72.537,
-   "speechEnd": 86.309,
+   "start": 78.891,
+   "speechEnd": 92.663,
    "actions": [],
-   "end": 86.92,
+   "end": 93.273,
    "title": "Layered coverage",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 72.076
+   "show": 78.431
   },
   {
    "id": "categories",
    "slide": 8,
-   "start": 86.92,
-   "speechEnd": 102.705,
+   "start": 93.273,
+   "speechEnd": 109.058,
    "actions": [
     {
-     "t": 89.203,
+     "t": 95.556,
      "a": "tip",
      "k": 0
     },
     {
-     "t": 91.39,
+     "t": 97.743,
      "a": "tip",
      "k": 1
     },
     {
-     "t": 94.047,
+     "t": 100.4,
      "a": "tip",
      "k": 4
     },
     {
-     "t": 97.284,
+     "t": 103.637,
      "a": "tip",
      "k": null
     }
    ],
-   "end": 103.316,
+   "end": 109.669,
    "title": "8 categories",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 86.459
+   "show": 92.813
   },
   {
    "id": "trimrisk",
    "slide": 9,
-   "start": 103.316,
-   "speechEnd": 117.57,
+   "start": 109.669,
+   "speechEnd": 124.804,
    "actions": [],
-   "end": 118.181,
+   "end": 125.414,
    "title": "Embedded: Prevention as a Service",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 102.855
+   "show": 109.208
   },
   {
    "id": "howitworks",
    "slide": 10,
-   "start": 118.181,
-   "speechEnd": 127.438,
+   "start": 125.414,
+   "speechEnd": 136.789,
    "actions": [],
-   "end": 128.049,
+   "end": 137.4,
    "title": "How it works in CoverCore",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 117.72
+   "show": 124.954
   },
   {
    "id": "quotepath",
    "slide": 11,
-   "start": 128.049,
-   "speechEnd": 136.072,
+   "start": 137.4,
+   "speechEnd": 145.423,
    "actions": [],
-   "end": 136.683,
+   "end": 146.033,
    "title": "The quote path",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 127.588
+   "show": 136.939
   },
   {
    "id": "stp",
    "slide": 12,
-   "start": 136.683,
-   "speechEnd": 145.961,
+   "start": 146.033,
+   "speechEnd": 155.311,
    "actions": [],
-   "end": 146.572,
+   "end": 155.922,
    "title": "Straight-through processing",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 136.222
+   "show": 145.573
   },
   {
    "id": "pricing",
    "slide": 13,
-   "start": 146.572,
-   "speechEnd": 153.768,
+   "start": 155.922,
+   "speechEnd": 163.118,
    "actions": [],
-   "end": 154.379,
+   "end": 163.728,
    "title": "Straightforward pricing",
    "speaker": "libby",
    "label": "Libby Bechtold",
-   "show": 146.111
+   "show": 155.461
   },
   {
    "id": "leads",
    "slide": 14,
-   "start": 154.379,
-   "speechEnd": 164.723,
+   "start": 163.728,
+   "speechEnd": 174.726,
    "actions": [],
-   "end": 165.334,
+   "end": 175.336,
    "title": "Leads you didn't have to find",
    "speaker": "kami",
    "label": "Kami Stuckey",
-   "show": 153.918
+   "show": 163.268
   },
   {
    "id": "talktrack",
    "slide": 15,
-   "start": 165.334,
-   "speechEnd": 174.455,
+   "start": 175.336,
+   "speechEnd": 184.761,
    "actions": [],
-   "end": 175.066,
+   "end": 185.372,
    "title": "Start the conversation",
    "speaker": "kami",
    "label": "Kami Stuckey",
-   "show": 164.873
+   "show": 174.876
   },
   {
    "id": "share",
    "slide": 16,
-   "start": 175.066,
-   "speechEnd": 180.056,
+   "start": 185.372,
+   "speechEnd": 191.713,
    "actions": [],
-   "end": 180.667,
+   "end": 192.323,
    "title": "Share the application",
    "speaker": "kami",
    "label": "Kami Stuckey",
-   "show": 174.605
+   "show": 184.911
   },
   {
    "id": "setup",
    "slide": 17,
-   "start": 180.667,
-   "speechEnd": 195.022,
+   "start": 192.323,
+   "speechEnd": 206.678,
    "actions": [],
-   "end": 195.633,
+   "end": 207.288,
    "title": "Get set up",
    "speaker": "brandy",
    "label": "Brandy Howard",
-   "show": 180.206
+   "show": 191.863
   },
   {
    "id": "qa",
    "slide": 18,
-   "start": 195.633,
-   "speechEnd": 198.296,
+   "start": 207.288,
+   "speechEnd": 209.821,
    "actions": [],
-   "end": 198.907,
+   "end": 210.431,
    "title": "Q&A",
    "speaker": "dwight",
    "label": "Dwight, Libby, Kami and Brandy",
-   "show": 195.172
+   "show": 206.828
   },
   {
    "id": "countdown",
    "slide": 19,
-   "start": 198.907,
-   "speechEnd": 237.808,
+   "start": 210.431,
+   "speechEnd": 255.446,
    "actions": [
     {
-     "t": 204.443,
+     "t": 218.249,
      "a": "step",
      "k": 1
     },
     {
-     "t": 207.993,
+     "t": 222.054,
      "a": "step",
      "k": 2
     },
     {
-     "t": 210.133,
+     "t": 224.716,
      "a": "step",
      "k": 3
     },
     {
-     "t": 212.958,
+     "t": 227.414,
      "a": "step",
      "k": 4
     },
     {
-     "t": 216.933,
+     "t": 231.887,
      "a": "step",
      "k": 5
     },
     {
-     "t": 218.682,
+     "t": 233.983,
      "a": "step",
      "k": 6
     },
     {
-     "t": 220.327,
+     "t": 235.872,
      "a": "step",
      "k": 7
     },
     {
-     "t": 221.728,
+     "t": 237.679,
      "a": "step",
      "k": 8
     },
     {
-     "t": 223.468,
+     "t": 239.322,
      "a": "step",
      "k": 9
     },
     {
-     "t": 229.928,
+     "t": 245.607,
      "a": "step",
      "k": 10,
-     "crash": 230.228
+     "crash": 245.907
     }
    ],
-   "end": 238.419,
+   "end": 256.057,
    "title": "Top 10 countdown",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 198.446
+   "show": 209.971
   },
   {
    "id": "close",
    "slide": 20,
-   "start": 238.419,
-   "speechEnd": 253.575,
+   "start": 256.057,
+   "speechEnd": 274.329,
    "actions": [],
-   "end": 254.375,
+   "end": 275.13,
    "title": "Thank you",
    "speaker": "dwight",
    "label": "Dwight Stuckey",
-   "show": 237.958
+   "show": 255.596
   }
  ],
  "captions": [
   {
    "s": 3.55,
-   "e": 6.87,
+   "e": 7.09,
    "t": "I've been in this business thirty-five years, and honestly?"
   },
   {
-   "s": 6.87,
-   "e": 8.65,
+   "s": 7.09,
+   "e": 8.99,
    "t": "We're just getting started!"
   },
   {
-   "s": 8.65,
-   "e": 11.97,
+   "s": 8.99,
+   "e": 12.54,
    "t": "Because we have something special here. I'm Dwight Stuckey."
   },
   {
-   "s": 11.97,
-   "e": 14.96,
+   "s": 12.54,
+   "e": 15.72,
    "t": "Thanks for joining us for the StudioGuard Premiere."
   },
   {
-   "s": 14.96,
-   "e": 17.36,
+   "s": 15.72,
+   "e": 18.29,
    "t": "Insurance built for the creator economy."
   },
   {
-   "s": 17.97,
-   "e": 24.85,
+   "s": 18.9,
+   "e": 27.44,
    "t": "You'll hear from my team: Libby on coverage and the quote path, Kami on leads and sharing, and Brandy on getting you set up."
   },
   {
-   "s": 25.46,
-   "e": 26.68,
+   "s": 28.05,
+   "e": 29.48,
    "t": "So why now?"
   },
   {
-   "s": 26.68,
-   "e": 31.87,
+   "s": 29.48,
+   "e": 35.55,
    "t": "Goldman Sachs and IAB put the creator economy at $250 billion in 2023."
   },
   {
-   "s": 31.87,
-   "e": 35.94,
+   "s": 35.55,
+   "e": 40.33,
    "t": "By 2027? $480 billion. More than 50 million creators."
   },
   {
-   "s": 35.94,
-   "e": 38.04,
+   "s": 40.33,
+   "e": 42.79,
    "t": "That's not a hobby market."
   },
   {
-   "s": 38.04,
-   "e": 41.88,
+   "s": 42.79,
+   "e": 47.29,
    "t": "Those are businesses, and they need insurance that fits."
   },
   {
-   "s": 42.5,
-   "e": 45.7,
+   "s": 47.9,
+   "e": 51.51,
    "t": "Quote. Place. Grow. That's what we do for agents."
   },
   {
-   "s": 45.7,
-   "e": 50.47,
-   "t": "Family owned for 35 years, with more than 1,200 partner agencies in 48 states."
+   "s": 51.51,
+   "e": 56.83,
+   "t": "Family owned for 35 years, with more than 1,200 agents in 48 states."
   },
   {
-   "s": 51.08,
-   "e": 53.9,
+   "s": 57.44,
+   "e": 60.08,
    "t": "Here's the big idea. StudioGuard expands your book."
   },
   {
-   "s": 53.9,
-   "e": 56.13,
+   "s": 60.08,
+   "e": 62.17,
    "t": "Admitted markets handle the easy stuff."
   },
   {
-   "s": 56.13,
-   "e": 59.05,
+   "s": 62.17,
+   "e": 64.9,
    "t": "Our surplus lines program covers everything around it."
   },
   {
-   "s": 59.05,
-   "e": 60.46,
-   "t": "874 eligible classes."
+   "s": 64.9,
+   "e": 66.81,
+   "t": "874 classes."
   },
   {
-   "s": 61.07,
-   "e": 65.77,
+   "s": 67.42,
+   "e": 72.13,
    "t": "We're clear about what we don't write, so you never waste a submission."
   },
   {
-   "s": 65.77,
-   "e": 68.04,
+   "s": 72.13,
+   "e": 74.39,
    "t": "A prospect fits one of these?"
   },
   {
-   "s": 68.04,
-   "e": 71.93,
+   "s": 74.39,
+   "e": 78.28,
    "t": "Send it to proquotes@stuckey.com, and we'll look."
   },
   {
-   "s": 72.54,
-   "e": 74.06,
+   "s": 78.89,
+   "e": 80.42,
    "t": "This is the heart of it."
   },
   {
-   "s": 74.06,
-   "e": 76.84,
+   "s": 80.42,
+   "e": 83.2,
    "t": "Your client's work has layers. So does StudioGuard."
   },
   {
-   "s": 76.84,
-   "e": 79.8,
+   "s": 83.2,
+   "e": 86.16,
    "t": "Picture a videographer. They start shooting on location?"
   },
   {
-   "s": 79.8,
-   "e": 81.96,
+   "s": 86.16,
+   "e": 88.31,
    "t": "Add GL. They rent gear? Add property."
   },
   {
-   "s": 81.96,
-   "e": 84.07,
+   "s": 88.31,
+   "e": 90.42,
    "t": "They store client footage? Add cyber."
   },
   {
-   "s": 84.07,
-   "e": 86.31,
+   "s": 90.42,
+   "e": 92.66,
    "t": "Every step in the business adds a layer."
   },
   {
-   "s": 86.92,
-   "e": 89.28,
+   "s": 93.27,
+   "e": 95.64,
    "t": "And who's it for? Look at your own book."
   },
   {
-   "s": 89.28,
-   "e": 91.47,
+   "s": 95.64,
+   "e": 97.82,
    "t": "The photographer shooting local events."
   },
   {
-   "s": 91.47,
-   "e": 94.13,
+   "s": 97.82,
+   "e": 100.48,
    "t": "The consultant selling an online course."
   },
   {
-   "s": 94.13,
-   "e": 97.36,
+   "s": 100.48,
+   "e": 103.72,
    "t": "The developer building apps for small businesses."
   },
   {
-   "s": 97.36,
-   "e": 99.21,
+   "s": 103.72,
+   "e": 105.56,
    "t": "They're already your clients."
   },
   {
-   "s": 99.21,
-   "e": 102.71,
+   "s": 105.56,
+   "e": 109.06,
    "t": "Eight categories, and Creators lead at about $28 billion."
   },
   {
-   "s": 103.32,
-   "e": 106.57,
+   "s": 109.67,
+   "e": 113.12,
    "t": "Insurance reacts. Prevention gets ahead of the claim."
   },
   {
-   "s": 106.57,
-   "e": 109.62,
+   "s": 113.12,
+   "e": 116.36,
    "t": "So we built TRiMRisk right into the application."
   },
   {
-   "s": 109.62,
-   "e": 113.28,
+   "s": 116.36,
+   "e": 120.25,
    "t": "Prevention as a Service. Lower loss ratios, higher retention."
   },
   {
-   "s": 113.28,
-   "e": 114.88,
+   "s": 120.25,
+   "e": 121.95,
    "t": "And yes, that's Tiny."
   },
   {
-   "s": 114.88,
-   "e": 117.57,
+   "s": 121.95,
+   "e": 124.8,
    "t": "Just remember, TRiMRisk is not insurance."
   },
   {
-   "s": 118.18,
-   "e": 119.93,
+   "s": 125.41,
+   "e": 127.57,
    "t": "And it all works from your phone."
   },
   {
-   "s": 119.93,
-   "e": 121.69,
+   "s": 127.57,
+   "e": 129.72,
    "t": "Log in at covercore.services."
   },
   {
-   "s": 121.69,
-   "e": 124.13,
+   "s": 129.72,
+   "e": 132.73,
    "t": "StudioGuard sits right on your Start a Quote row."
   },
   {
-   "s": 124.13,
-   "e": 125.4,
+   "s": 132.73,
+   "e": 134.28,
    "t": "Share an application."
   },
   {
-   "s": 125.4,
-   "e": 127.44,
+   "s": 134.28,
+   "e": 136.79,
    "t": "And My Balance shows what you've earned."
   },
   {
-   "s": 128.05,
-   "e": 129.84,
+   "s": 137.4,
+   "e": 139.19,
    "t": "Here's the number to remember."
   },
   {
-   "s": 129.84,
-   "e": 133.2,
+   "s": 139.19,
+   "e": 142.55,
    "t": "We estimate about 85% of applications go straight through."
   },
   {
-   "s": 133.2,
-   "e": 136.07,
+   "s": 142.55,
+   "e": 145.42,
    "t": "Five steps, from the first screen to an issued policy."
   },
   {
-   "s": 136.68,
-   "e": 137.52,
+   "s": 146.03,
+   "e": 146.87,
    "t": "How fast?"
   },
   {
-   "s": 137.52,
-   "e": 140.66,
+   "s": 146.87,
+   "e": 150.01,
    "t": "About three minutes, quote to policy, from eight data points."
   },
   {
-   "s": 140.66,
-   "e": 143.09,
+   "s": 150.01,
+   "e": 152.44,
    "t": "AI and third-party data build the head start."
   },
   {
-   "s": 143.09,
-   "e": 145.96,
+   "s": 152.44,
+   "e": 155.31,
    "t": "Your client just confirms it. Less typing. More advice."
   },
   {
-   "s": 146.57,
-   "e": 148.76,
+   "s": 155.92,
+   "e": 158.11,
    "t": "And the price is easy to talk about."
   },
   {
-   "s": 148.76,
-   "e": 151.72,
+   "s": 158.11,
+   "e": 161.07,
    "t": "Starting at $350 a year, plus fees and taxes."
   },
   {
-   "s": 151.72,
-   "e": 153.77,
+   "s": 161.07,
+   "e": 163.12,
    "t": "Premium financing is coming soon."
   },
   {
-   "s": 154.38,
-   "e": 156.8,
+   "s": 163.73,
+   "e": 166.31,
    "t": "Now, growth. Leads you didn't have to find."
   },
   {
-   "s": 156.8,
-   "e": 161.38,
+   "s": 166.31,
+   "e": 171.17,
    "t": "Our affiliate program finds creators in your market and drops them into your Pipeline tab."
   },
   {
-   "s": 161.38,
-   "e": 163.53,
+   "s": 171.17,
+   "e": 173.46,
    "t": "The catch? Leads go to full profiles."
   },
   {
-   "s": 163.53,
-   "e": 164.72,
+   "s": 173.46,
+   "e": 174.73,
    "t": "So finish yours."
   },
   {
-   "s": 165.33,
-   "e": 167.98,
+   "s": 175.34,
+   "e": 178.07,
    "t": "Need an opener? Try this. Your work has changed."
   },
   {
-   "s": 167.98,
-   "e": 170.26,
+   "s": 178.07,
+   "e": 180.43,
    "t": "Has your insurance kept up? Then listen."
   },
   {
-   "s": 170.26,
-   "e": 174.45,
+   "s": 180.43,
+   "e": 184.76,
    "t": "And this Premiere goes on YouTube, so your clients hear the story before you call."
   },
   {
-   "s": 175.07,
-   "e": 177.09,
+   "s": 185.37,
+   "e": 187.94,
    "t": "This one's huge. Share the application."
   },
   {
-   "s": 177.09,
-   "e": 180.06,
+   "s": 187.94,
+   "e": 191.71,
    "t": "Your client does the typing, and you stay the agent of record."
   },
   {
-   "s": 180.67,
-   "e": 182.59,
+   "s": 192.32,
+   "e": 194.24,
    "t": "Getting started is simple."
   },
   {
-   "s": 182.59,
-   "e": 186.54,
+   "s": 194.24,
+   "e": 198.19,
    "t": "Log in at covercore.services and complete your full profile."
   },
   {
-   "s": 186.54,
-   "e": 189.69,
+   "s": 198.19,
+   "e": 201.34,
    "t": "New to Stuckey? Click Get Appointed. No minimums."
   },
   {
-   "s": 189.69,
-   "e": 193.63,
+   "s": 201.34,
+   "e": 205.29,
    "t": "By our estimates, there are 27 million paid creators in the U.S."
   },
   {
-   "s": 193.63,
-   "e": 195.02,
+   "s": 205.29,
+   "e": 206.68,
    "t": "Find your state."
   },
   {
-   "s": 195.63,
-   "e": 198.3,
+   "s": 207.29,
+   "e": 209.82,
    "t": "Still have questions? Email proquotes@stuckey.com."
   },
   {
-   "s": 198.91,
-   "e": 200.26,
+   "s": 210.43,
+   "e": 212.36,
    "t": "Remember those 35 years?"
   },
   {
-   "s": 200.26,
-   "e": 201.89,
+   "s": 212.36,
+   "e": 214.69,
    "t": "Here's why this one is special."
   },
   {
-   "s": 201.89,
-   "e": 204.52,
+   "s": 214.69,
+   "e": 218.33,
    "t": "Ten things, never before together in one program."
   },
   {
-   "s": 204.52,
-   "e": 208.07,
+   "s": 218.33,
+   "e": 222.13,
    "t": "Ten. A market headed to $480 billion."
   },
   {
-   "s": 208.07,
-   "e": 210.21,
+   "s": 222.13,
+   "e": 224.8,
    "t": "Nine. Built only for creators."
   },
   {
-   "s": 210.21,
-   "e": 213.04,
+   "s": 224.8,
+   "e": 227.49,
    "t": "Eight. CoverCore APIs."
   },
   {
-   "s": 213.04,
-   "e": 217.01,
+   "s": 227.49,
+   "e": 231.97,
    "t": "Seven. An aggregator plus an exclusive program."
   },
   {
-   "s": 217.01,
-   "e": 218.76,
+   "s": 231.97,
+   "e": 234.06,
    "t": "Six. Embedded prevention."
   },
   {
-   "s": 218.76,
-   "e": 220.41,
+   "s": 234.06,
+   "e": 235.95,
    "t": "Five. Exclusive coverage."
   },
   {
-   "s": 220.41,
-   "e": 221.81,
+   "s": 235.95,
+   "e": 237.76,
    "t": "Four. A fast start."
   },
   {
-   "s": 221.81,
-   "e": 223.55,
+   "s": 237.76,
+   "e": 239.4,
    "t": "Three. Share links."
   },
   {
-   "s": 223.55,
-   "e": 225.27,
+   "s": 239.4,
+   "e": 241.51,
    "t": "Two. Leads, delivered."
   },
   {
-   "s": 225.27,
-   "e": 227.28,
+   "s": 241.51,
+   "e": 242.96,
    "t": "And number one? My favorite."
   },
   {
-   "s": 230.83,
-   "e": 232.93,
+   "s": 246.51,
+   "e": 249.19,
    "t": "Commissions paid in ten days. Ten days!"
   },
   {
-   "s": 232.93,
-   "e": 235.8,
+   "s": 249.19,
+   "e": 252.87,
    "t": "There's My Balance, with View Commissions one click away."
   },
   {
-   "s": 235.8,
-   "e": 237.81,
+   "s": 252.87,
+   "e": 255.45,
    "t": "That's a big deal for your cash flow."
   },
   {
-   "s": 238.42,
-   "e": 240.09,
+   "s": 256.06,
+   "e": 258.07,
    "t": "Thanks for joining us."
   },
   {
-   "s": 240.09,
-   "e": 244.77,
+   "s": 258.07,
+   "e": 263.72,
    "t": "This week, log in at covercore.services and quote your first creator client."
   },
   {
-   "s": 244.77,
-   "e": 245.81,
+   "s": 263.72,
+   "e": 264.97,
    "t": "Questions?"
   },
   {
-   "s": 245.81,
-   "e": 251.28,
+   "s": 264.97,
+   "e": 271.57,
    "t": "Book time with me at calendly.com/dwightstuckey, or email dwight@stuckey.com."
   },
   {
-   "s": 251.28,
-   "e": 253.57,
+   "s": 271.57,
+   "e": 274.33,
    "t": "Built for creators. Placed by you."
   }
  ]
